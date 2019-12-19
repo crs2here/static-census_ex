@@ -10,3 +10,5 @@ export const mapColors = {
   counties: { color: "orange" },
   outline: { color: "red" }
 };
+
+export const censusAPIKEY = "07184eefd1a00d366cfafb4b523927428fec0a52";
