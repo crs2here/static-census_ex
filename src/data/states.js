@@ -1,7 +1,7 @@
 export const states = {
   data: {
    "type": "FeatureCollection",
-   "features": [{
+   "features": [{ 
      "type": "Feature",
      "properties": {
       "GEO_ID": "0400000US04",
